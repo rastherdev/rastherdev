@@ -20,4 +20,4 @@
 
 <p> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rastherdev&show_icons=true&locale=en&layout=compact&theme=transparent&bg_color=00000000" alt="rastherdev" /> </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rastherdev&show_icons=true&locale=en" alt="rastherdev" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rastherdev&show_icons=true&locale=en&layout=compact&theme=transparent&bg_color=00000000" alt="rastherdev" /></p>
