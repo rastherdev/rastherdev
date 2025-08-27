@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Laravel, Vue, React, Redis**
 
-- 👯 I’m looking to collaborate on [Laravel](https://github.com/laravel/laravel)
-
 - 👨‍💻 All of my projects are available at [https://rastherdev.github.io/](https://rastherdev.github.io/)
 
 - 📫 How to reach me **rastherdev@gmail.com**
